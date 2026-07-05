@@ -6,10 +6,6 @@ An interactive Power BI dashboard designed to analyze and visualize various fact
 ## 📌 Project Overview
 Student mental health is a critical area of focus in modern education. This project leverages data-driven insights to explore how daily habits, academic loads, and financial situations correlate with a student's well-being. By visualizing these metrics, the dashboard aims to make complex student demographic and behavioral data easily digestible for educators, researchers, and policy-makers.
 
-### 🖼️ Dashboard Preview
-![Dashboard Screenshot](path-to-your-image/dashboard_screenshot.png) 
-*(Note: Replace this with the actual path of the image uploaded to your repo)*
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -41,6 +37,6 @@ Even Distribution: Factors like financial stress and sleep duration show surpris
 Academic Pressure: The gender-segmented data allows for deep-dive analysis on whether academic stress impacts genders differently at higher severity levels.
 
 **💡 How to View the Project**
-Prerequisites: Ensure you have Microsoft Power BI Desktop installed.
-Download: Clone or download this repository to your local machine:
-Open: Navigate to the folder and double-click Student_Depression_Dashboard.pbix to open it in Power BI.
+* Prerequisites: Ensure you have Microsoft Power BI Desktop installed.
+* Download: Clone or download this repository to your local machine:
+* Open: Navigate to the folder and double-click Student_Depression_Dashboard.pbix to open it in Power BI.
